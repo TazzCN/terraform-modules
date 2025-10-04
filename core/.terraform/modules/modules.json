@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cognito","Source":"../modules/cognito","Dir":"../modules/cognito"},{"Key":"security","Source":"../modules/security","Dir":"../modules/security"},{"Key":"vpc","Source":"../modules/vpc-no-nat","Dir":"../modules/vpc-no-nat"}]}
